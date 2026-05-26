@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/canocmit/FishCoin/main/assets/blockchains/plasma/assets/0x2E7Fa0C70D63FFfa29c792f406C3a66C01918BA1/logo.png" alt="Fishcoin Logo" width="150">
+  <img src="[18BA1/Logo.png](https://raw.githubusercontent.com/GocCaXinh/GCX/refs/heads/main/public/Logo.png)" alt="Goc Ca Xinh Logo" width="150">
 </p>
 
 <h1 align="center">🐟 Goc Ca Xinh (GCX)</h1>
