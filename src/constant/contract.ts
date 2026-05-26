@@ -1,33 +1,33 @@
 export const CONTRACT = {
-  name: 'Lucky Coin',
-  symbol: 'LUK',
-  ca: '0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d',
-  totalSupply: 1000,
+  name: 'Góc Cá Xinh',
+  symbol: 'GCX',
+  ca: '0x253425085e3739261b2B36C9fB53a3f3884019bd',
+  totalSupply: 100,
   taxPercentage: 5,
   ownershipRenounced: false,
   description:
-    'Luckycoin (LUK) is used as loyalty reward points for frequent customers, Redeemable discounts or gifts within stores, ppreciation tokens for customer engagement, Easy to integrate into any type of retail or service business.',
+    'GCX được tạo ra để làm điểm thưởng cho khách hàng của cửa hàng Góc Cá Xinh, giúp khách hàng tích điểm khi mua sắm và dùng GCX để đổi sản phẩm, ưu đãi hoặc quà tặng trong cửa hàng.',
 
   partners: [
     {
-      name: 'Lucky Coin in Rabby Wallet',
+      name: 'Góc Cá Xinh trong Rabby Wallet',
       url:'',
       imgUrl: '/images/wallets/rabby.png',   // 🟢 logo bên trái
     },
     { 
-      name: 'Lucky Coin is now available',
-      url:'https://oku.trade/swap?inputChain=plasma&inToken=0x55eE5a9e112E384E60E9Fd099C495C6b7E04F09a&outToken=0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb',
+      name: 'Góc Cá Xinh is now available',
+      url:'',
       imgUrl: '/okutrade.png',   // 🟢 logo bên trái
     },
     {
-      name: 'Lucky Coin Chain',
-      url: 'https://plasmascan.to/token/0xC1b471A3228Aa15571c05e79a002a26eDF6F3C9d',
+      name: 'Góc Cá Xinh trong Chain',
+      url: 'https://plasmascan.to/token/0x253425085e3739261b2b36c9fb53a3f3884019bd',
       imgUrl: '/plasma.svg',
     },
       ],
-  logo1: '/logo.png',
-  logo2: '/logo.png',
-  logo3: '/logo.png',
+  logo1: '/Logo.png',
+  logo2: '/Logo.png',
+  logo3: '/Logo.png',
   telegram: "https://t.me/ranchufishfarm",
   twitter: "https://twitter.com/ranchufishfarm",
   discord: "https://discord.gg/canocmit33",

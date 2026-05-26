@@ -12,7 +12,7 @@ export function constructMetadata({
   title = CONTRACT.symbol,
   description = CONTRACT.name,
   image = CONTRACT.logo1,
-  icons = '/favicon/Fishcoin.png',
+  icons = '/favicon/GCX.png',
 }: {
   title?: string;
   description?: string;

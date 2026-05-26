@@ -10,10 +10,10 @@ const recursive = Recursive({
 });
 
 export const metadata: Metadata = {
-  title: "Luckycoin",
-  description: "🍀 Luckycoin – Connecting happiness, spreading luck!",
+  title: "Góc Cá Xinh",
+  description: "Góc Cá Xinh (GCX) là điểm thưởng dùng để đổi sẩn phẩm trong cửa hàng Góc Cá Xinh",
   icons: {
-    icon: "/favicon/Luckycoin.png?v=1",
+    icon: "/favicon/GCX.png?v=1",
   },
 };
 
@@ -26,11 +26,11 @@ export default function RootLayout({
     <html lang="en" className={recursive.variable}>
       <head>
         {/* Favicon setup */}
-        <link rel="icon" href="/favicon/Luckycoin.png?v=1" type="image/png" />
-        <link rel="apple-touch-icon" href="/favicon/Luckycoin.png?v=1" />
+        <link rel="icon" href="/favicon/GCX.png?v=1" type="image/png" />
+        <link rel="apple-touch-icon" href="/favicon/GCX.png?v=1" />
         <link
           rel="shortcut icon"
-          href="/favicon/Luckycoin.png"
+          href="/favicon/GCX.png"
           type="image/png"
         />
       </head>
@@ -43,13 +43,13 @@ export default function RootLayout({
             className="flex items-center gap-2 text-blue-600 font-semibold hover:underline"
           >
             <Image
-              src="/favicon/Luckycoin.png"
-              alt="Luckycoin Logo"
+              src="/favicon/GCX.png"
+              alt="Góc Cá Xinh Logo"
               width={28}
               height={28}
               className="rounded-full"
             />
-            Lucky Coin
+            Góc Cá Xinh
           </a>
 
           <a
@@ -65,7 +65,7 @@ export default function RootLayout({
 
         {/* FOOTER */}
         <footer className="text-center text-gray-500 py-6 border-t">
-          © 2025 Luckycoin 🍀 – Connecting happiness, spreading luck.
+          © 2026 Góc Cá Xinh — Tích Điểm, Đổi Quà, Kết Nối Đam Mê 🐠
         </footer>
       </body>
     </html>

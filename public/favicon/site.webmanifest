@@ -1,10 +1,10 @@
 {
-  "name": "Luckycoin",
-  "short_name": "LUC",
+  "name": "Góc Cá Xinh",
+  "short_name": "GCX",
   "icons": [
     {
-      "src": "/favicon/Luckycoin.png",
-      "sizes": "256x256",
+      "src": "/favicon/GCX.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],

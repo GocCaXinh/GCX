@@ -9,9 +9,9 @@ import { CONTRACT } from "@/constant/contract";
 
 export const WALLETS = [
   {
-    name: "MetaMask",
-    icon: "/images/wallets/metamask.png",
-    link: "https://metamask.io/download/",
+    name: "Gem Wallet",
+    icon: "/images/wallets/Gem.png",
+    link: "https://gemwallet.com/",
   },  
   {
     name: "Rabby Wallet",
@@ -60,7 +60,7 @@ export default function Hero() {
       <div className="text-white w-full m-0 md:m-10 lg:m-0 md:w-1/3 lg:w-1/2 flex flex-col justify-center items-center gap-10">
         {/* TITLE */}
         <h1 className="text-3xl text-center lg:text-5xl font-extrabold break-words lg:px-4 mt-6 lg:mt-0 text-zinc-900">
-          Welcome to <br />
+          Chào Mừng Đến Với <br />
           <div className="typewriter-oneline">
             <span className="text-center text-4xl lg:text-7xl text-transparent glow-text bg-text-gradient-1 bg-clip-text">
               {CONTRACT.name}
@@ -68,7 +68,7 @@ export default function Hero() {
           </div>
         </h1>
         <a
-          href="https://zalo.me/g/orafbe559"  // Liên kết tới nhóm Fishcoin
+          href=""  // Liên kết tới nhóm Fishcoin
           target="_blank"
           rel="noopener noreferrer"
           className="cursor-pointer"
@@ -82,7 +82,7 @@ export default function Hero() {
               height={150}
               className="rounded-xl shadow-lg"
             />
-            <span className="text-blue-600 font-semibold text-sm mt-2">Lucky Coin Group</span>
+            <span className="text-blue-600 font-semibold text-sm mt-2">Nhóm Góc Cá Xinh</span>
           </div>
         </a>
         {/* CONTRACT COPY */}
@@ -122,7 +122,7 @@ export default function Hero() {
         {/* SUPPORTED WALLETS */}
         <div className="mt-4">
           <p className="text-center text-sm text-zinc-500">
-            LUK wallet support:
+            Ví Hỗ Trợ GCX:
           </p>
           <div className="mt-2 flex justify-center gap-4 flex-wrap">
             {WALLETS.map((wallet) => (
