@@ -5,7 +5,7 @@
 <h1 align="center">🐟 Goc Ca Xinh (GCX)</h1>
 
 <p align="center">
-  <a href="https://goccaxinh.vercel.app" target="_blank">🌐 https://fishcoinvn.vercel.app</a>
+  <a href="https://goccaxinh.vercel.app" target="_blank">🌐 https://goccaxinh.vercel.app</a>
 </p>
 
 ---
