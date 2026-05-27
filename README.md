@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[18BA1/Logo.png](https://raw.githubusercontent.com/GocCaXinh/GCX/refs/heads/main/public/Logo.png)" alt="Goc Ca Xinh Logo" width="150">
+  <img src="[18BA1/logo.png](https://raw.githubusercontent.com/GocCaXinh/GCX/refs/heads/main/public/images/wallets/logo.png)" alt="Goc Ca Xinh Logo" width="150">
 </p>
 
 <h1 align="center">🐟 Goc Ca Xinh (GCX)</h1>
