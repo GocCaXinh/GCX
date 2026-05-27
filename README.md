@@ -78,7 +78,7 @@ The official website is built using **Next.js + Tailwind CSS + TypeScript**.
 ## 🌐  Links
 
 * Website: [https://goccaxinh.vercel.app](https://goccaxinh.vercel.app)
-* GitHub: [https://github.com/goccaxinh/GCX](https://github.com/goccaxinh/GCX)
+* GitHub:[https://github.com/goccaxinh/GCX](https://github.com/goccaxinh/GCX)
  
 
 ---
