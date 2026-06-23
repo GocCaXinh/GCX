@@ -12,7 +12,7 @@ export const CONTRACT = {
     {
       name: 'Góc Cá Xinh trong Gem Wallet',
       url:'',
-      imgUrl: '/images/wallets/rabby.png',   // 🟢 logo bên trái
+      imgUrl: '/images/wallets/Gem.png',   // 🟢 logo bên trái
     },
     { 
       name: 'Góc Cá Xinh is now available',
