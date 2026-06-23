@@ -2,7 +2,7 @@ export const CONTRACT = {
   name: 'Góc Cá Xinh',
   symbol: 'GCX',
   ca: '0x253425085e3739261b2B36C9fB53a3f3884019bd',
-  totalSupply: 100,
+  totalSupply: 1000,
   taxPercentage: 5,
   ownershipRenounced: false,
   description:
@@ -10,7 +10,7 @@ export const CONTRACT = {
 
   partners: [
     {
-      name: 'Góc Cá Xinh trong Rabby Wallet',
+      name: 'Góc Cá Xinh trong Gem Wallet',
       url:'',
       imgUrl: '/images/wallets/rabby.png',   // 🟢 logo bên trái
     },
@@ -21,7 +21,7 @@ export const CONTRACT = {
     },
     {
       name: 'Góc Cá Xinh trong Chain',
-      url: 'https://plasmascan.to/token/0x253425085e3739261b2b36c9fb53a3f3884019bd',
+      url: 'https://routescan.io/token/0x253425085e3739261b2B36C9fB53a3f3884019bd/balances?type=erc20&chainid=9745',
       imgUrl: '/plasma.svg',
     },
       ],
