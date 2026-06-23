@@ -22,7 +22,7 @@ export const CONTRACT = {
     {
       name: 'Góc Cá Xinh trong Chain',
       url: 'https://routescan.io/token/0x253425085e3739261b2B36C9fB53a3f3884019bd/balances?type=erc20&chainid=9745',
-      imgUrl: '/plasma.svg',
+      imgUrl: '/Routescan.jpg',
     },
       ],
   logo1: '/Logo.png',
